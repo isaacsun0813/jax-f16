@@ -1,0 +1,3 @@
+[submodule "src/JAX-f16/AeroBenchVVPython"]
+	path = src/JAX-f16/AeroBenchVVPython
+	url = https://github.com/isaacsun0813/AeroBenchVVPython
